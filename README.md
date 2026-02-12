@@ -18,6 +18,7 @@ Dataset selected from Kaggle:
 Mall Customer Segmentation Data
 
 Tasks Performed:
+
 Identify and handle missing values using .isnull() in Python or filters in Excel.
 Remove duplicate rows using .drop_duplicates() or Excel’s “Remove Duplicates”.
 Standardize text values like gender, country names, etc.
