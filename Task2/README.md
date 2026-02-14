@@ -23,6 +23,7 @@ Data includes: Orders, Sales, Profit, Discount, Region, Category, Product, and O
 Time period: 2014–2017
 
 **📈 Charts Created**
+
 1️⃣ Sales Trend Over Time
 
 2️⃣ Sales by Category
