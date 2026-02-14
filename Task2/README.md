@@ -35,5 +35,7 @@ Time period: 2014–2017
 5️⃣ Discount vs Profit Analysis
 
 **📤 Output**
+
 Visual dashboard (attached)
+
 Storytelling summary
