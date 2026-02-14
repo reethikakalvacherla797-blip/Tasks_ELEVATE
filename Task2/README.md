@@ -24,9 +24,13 @@ Time period: 2014–2017
 
 **📈 Charts Created**
 1️⃣ Sales Trend Over Time
+
 2️⃣ Sales by Category
+
 3️⃣ Profit by Region
+
 4️⃣ Top 10 Products by Sales
+
 5️⃣ Discount vs Profit Analysis
 
 **📤 Output**
