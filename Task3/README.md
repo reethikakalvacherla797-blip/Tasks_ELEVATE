@@ -5,48 +5,46 @@ The objective of this task is to use SQL queries to extract, manipulate, and ana
 
 🛠 Tools Used
 
-.MySQL (Command Line)
+   MySQL (Command Line)
 
-.SQL
-
-(Can also be implemented using PostgreSQL or SQLite)
+   SQL
 
 🗂 Dataset Used
 
-Ecommerce_SQL_Database
+   Ecommerce_SQL_Database
 
-The database consists of the following tables:
+   The database consists of the following tables:
 
-.Customers
+       Customers
 
-.Orders
+       Orders
 
-.Products
+       Products
 
-.Order_Items
+       Order_Items
 
-These tables are connected using primary keys and foreign keys to maintain relational integrity.
+    These tables are connected using primary keys and foreign keys to maintain relational integrity.
 
 🧱 Database Operations Performed
 
-1.Use SELECT, WHERE, ORDER BY, GROUP BY for filtering and sorting data.
+    1.Use SELECT, WHERE, ORDER BY, GROUP BY for filtering and sorting data.
 
-2.Apply aggregate functions like SUM, AVG, COUNT for KPIs.
+    2.Apply aggregate functions like SUM, AVG, COUNT for KPIs.
 
-3.Implement JOINS to combine related tables.
+    3.Implement JOINS to combine related tables.
 
-4.Write subqueries for advanced filtering.
+    4.Write subqueries for advanced filtering.
 
-5,Create views for reusable insights.
+    5.Create views for reusable insights.
 
-6.Learn basic query optimization techniques.
+    6.Learn basic query optimization techniques.
 
 
 📂 Deliverables
 
-.task3.sql file containing all SQL queries.
+  task3.sql file containing all SQL queries.
 
-.Screenshots showing:
+  Screenshots showing:
 
       1.Query execution
 
