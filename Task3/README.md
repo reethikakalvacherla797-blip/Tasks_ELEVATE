@@ -6,8 +6,8 @@ The objective of this task is to use SQL queries to extract, manipulate, and ana
 
 🛠 Tools Used
 
-    MySQL (Command Line)
-    SQL
+MySQL (Command Line)
+SQL
     
 🗂 Dataset Used
 
