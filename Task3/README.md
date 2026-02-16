@@ -6,10 +6,10 @@ The objective of this task is to use SQL queries to extract, manipulate, and ana
 🗂 Dataset Used
 Ecommerce_SQL_Database
 The database consists of the following tables:
-   Customers
-   Orders
-   Products
-   Order_Items
+  Customers
+  Orders
+  Products
+  Order_Items
 
 These tables are connected using primary keys and foreign keys to maintain relational integrity.
 🧱 Database Operations Performed
