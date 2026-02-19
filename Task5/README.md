@@ -95,15 +95,7 @@ Columns: 12
 - Scatterplots
 - Heatmap
 - Pairplot
-
----
-
-## 📎 Project Deliverables
-
-- Jupyter Notebook (.ipynb)
-- PDF Report
-- README.md
-
+  
  ---
 
 ## 🧠 Conclusion
