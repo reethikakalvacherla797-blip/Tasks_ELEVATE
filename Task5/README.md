@@ -1,6 +1,6 @@
-## 🚢 TASK-5  Exploratory Data Analysis (EDA)
+## 📊 TASK-5  Exploratory Data Analysis (EDA)
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to uncover patterns, trends, and relationships that influenced passenger survival.
 
