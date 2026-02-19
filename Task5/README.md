@@ -1,6 +1,6 @@
- 🚢 Titanic Dataset - Exploratory Data Analysis (EDA)
+## 🚢 TASK-5  Exploratory Data Analysis (EDA)
 
- 📌 Project Overview
+##📌 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to uncover patterns, trends, and relationships that influenced passenger survival.
 
@@ -98,38 +98,17 @@ Columns: 12
 
 ---
 
-## 🧠 Conclusion
-
-Gender, Passenger Class, and Fare were the most influential factors affecting survival on the Titanic.
-
-The analysis highlights the importance of exploratory data analysis in understanding data patterns before building predictive models.
-
----
-
 ## 📎 Project Deliverables
 
 - Jupyter Notebook (.ipynb)
 - PDF Report
 - README.md
 
----
+ ---
 
-## 💡 Skills Gained
+## 🧠 Conclusion
 
-- Data Cleaning & Exploration
-- Data Visualization
-- Statistical Analysis
-- Insight Extraction
-- Report Writing
+Gender, Passenger Class, and Fare were the most influential factors affecting survival on the Titanic.
 
----
+The analysis highlights the importance of exploratory data analysis in understanding data patterns before building predictive models.
 
-## 📌 Author
-
-Your Name  
-Data Science / Internship Project  
-Year: 2026
-
----
-
-⭐ If you found this project useful, feel free to star the repository!
