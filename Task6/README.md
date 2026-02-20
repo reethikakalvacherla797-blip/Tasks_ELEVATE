@@ -49,12 +49,20 @@ MySQL Command Line / Workbench
 
 -WHERE – Filter specific year
 
-## 📈 Key Observations
+## 📈 Key Insights
 
--Revenue shows a steady upward trend from January to March.
+-March recorded the highest revenue (1200.00).
 
--March recorded the highest revenue in the observed period.
+-February recorded the lowest revenue (450.00).
 
--Increase in order volume aligns with revenue growth.
+-Order volume remained constant across months.
 
--Monthly aggregation helps identify seasonal performance patterns.
+-Revenue fluctuations are driven by product pricing.
+
+-Monthly aggregation helps identify performance trends.
+
+## 🧠 Conclusion
+
+-This project demonstrates how SQL aggregation functions can be used to analyze time-based business trends.
+
+-Monthly revenue and order analysis provide valuable insights for strategic planning and performance monitoring.
