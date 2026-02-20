@@ -15,6 +15,7 @@ This analysis helps in understanding business performance over time.
 ## 🗂 Dataset Details
 
 Database: online_sales
+
 Table: orders
 
 ## Columns Used
