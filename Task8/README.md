@@ -1,7 +1,7 @@
 ## 🚀 Task-8 Simple Sales Dashboard Design
 ## 📌 Project Overview
 
-This project demonstrates the creation of a basic interactive sales dashboard using Power BI (or Tableau). The dashboard provides insights into sales performance across products, regions, and months. It helps business users quickly understand trends and top-performing areas.
+This project demonstrates the creation of a basic interactive sales dashboard using Tableau. The dashboard provides insights into sales performance across products, regions, and months. It helps business users quickly understand trends and top-performing areas.
 
 ## Objective:
 Visualize sales data to identify trends, performance by region, and category-level sales.
