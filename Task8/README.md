@@ -20,11 +20,11 @@ Dataset: Superstore_Sales.csv
 
 3.Visualizations Created:
 
-      Line Chart: Sales trend over months
+   -Line Chart: Sales trend over months
 
-      Bar Chart: Sales by Region
+   -Bar Chart: Sales by Region
 
-      Donut Chart : Sales by Category
+   -Donut Chart : Sales by Category
 
 4.Filters/Slicers: Added interactive filters for Region and Category.
 
