@@ -34,7 +34,7 @@ Dataset: Superstore_Sales.csv
 
 ## 📊 Key Insights
 
-1.The West region achieved the highest sales in Q3.
+1.The West region achieved the highest sales in Q4.
 
 2.Technology products consistently outperform Furniture and Office Supplies in total sales.
 
