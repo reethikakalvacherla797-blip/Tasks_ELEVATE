@@ -14,25 +14,25 @@ Dataset: Superstore_Sales.csv
 
 ## 📝 Steps Followed
 
-##1.Import Data:## Loaded Superstore_Sales.csv into Power BI/Tableau.
+1.Import Data: Loaded Superstore_Sales.csv into Power BI/Tableau.
 
-##2.Date Transformation:## Converted Order Date into Month-Year format for time-based analysis.
+2.Date Transformation: Converted Order Date into Month-Year format for time-based analysis.
 
-##3.Visualizations Created:##
+3.Visualizations Created:
 
-     ## Line Chart ##: Sales trend over months
+      Line Chart: Sales trend over months
 
-     ## Bar Chart ##: Sales by Region
+      Bar Chart: Sales by Region
 
-     ## Donut Chart ##: Sales by Category
+      Donut Chart : Sales by Category
 
-##4.Filters/Slicers:## Added interactive filters for Region and Category.
+4.Filters/Slicers: Added interactive filters for Region and Category.
 
-##5.Highlighting:## Used color coding to emphasize top-performing regions and categories.
+5.Highlighting: Used color coding to emphasize top-performing regions and categories.
 
-##6.Insights Generated:## Extracted key business insights from the dashboard.
+6.Insights Generated: Extracted key business insights from the dashboard.
 
-📊 Key Insights
+## 📊 Key Insights
 
 1.The West region achieved the highest sales in Q3.
 
