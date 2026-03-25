@@ -32,9 +32,13 @@ The goal is to support data-driven business decisions that improve profitability
 ## Project Workflow:
 
 1.Imported retail datasets into SQL and performed data cleaning by handling missing and null records
+
 2.Wrote SQL queries to compute profit margins across categories and sub-categories
+
 3.Used Python (Pandas) to analyze correlations between inventory holding days and profitability
+
 4.Built an interactive Tableau dashboard with filters for region, product type, and seasonality
+
 5.Generated strategic recommendations to reduce overstocking and improve slow-moving inventory performance
 
 ---
